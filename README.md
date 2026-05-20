@@ -1,4 +1,5 @@
-<img width="1338" height="985" alt="Lab1SS" src="https://github.com/user-attachments/assets/f50e18d6-465b-4a9e-9bd3-5cc07f4ca854" />
+<img width="1353" height="950" alt="Lab1S" src="https://github.com/user-attachments/assets/27d55fd7-e30a-44d7-8f2d-9029d2c0fdce" />
+
 # Lab1HelloWorld OpenGL
 
 ## Ce face aplicatia
