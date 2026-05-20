@@ -1,0 +1,14 @@
+plugins {
+    id 'com.android.application'
+}
+android {
+    namespace 'cg.helloworld'
+    compileSdk 33
+    defaultConfig {
+        applicationId 'cg.helloworld'
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName '1.0'
+    }
+}
